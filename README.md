@@ -11,8 +11,8 @@
 - Возведение числа в модуль, результат сохранить в MySQL с последующим выводом в консоль.
 - Возведение числа в степень, результат сохранить в MySQL с последующим выводом в консоль.
 - Сохранить все данные (вышеполученные результаты) из MySQL в Excel и вывести на экран.
-[Решение 1 ] (https://github.com/AliceAnd0/java_exam/tree/main/NumbersInDB)
-[Решение 2 ] (https://github.com/Katerina0088/tiska/blob/master/1/MathOperations.java)
+[Решение 1 ](https://github.com/AliceAnd0/java_exam/tree/main/NumbersInDB)
+[Решение 2 ](https://github.com/Katerina0088/tiska/blob/master/1/MathOperations.java)
 ``` 
 package com.example.demo;
 
